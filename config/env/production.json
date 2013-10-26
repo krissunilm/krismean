@@ -1,12 +1,12 @@
 {
-    "db": "mongodb://localhost/mean",
+    "db": "mongodb://matrix:matrix@ds051848.mongolab.com:51848/mean",
     "app": {
         "name": "MEAN - A Modern Stack - Production"
     },
     "facebook": {
-        "clientID": "APP_ID",
-        "clientSecret": "APP_SECRET",
-        "callbackURL": "http://localhost:3000/auth/facebook/callback"
+        "clientID": "437403343030492",
+        "clientSecret": "420546183378aac54535d929c64a3d2f",
+        "callbackURL": "http://krismean.herokuapp.com/auth/facebook/callback"
     },
     "twitter": {
         "clientID": "CONSUMER_KEY",
