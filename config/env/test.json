@@ -1,5 +1,5 @@
 {
-    "db": "mongodb://localhost/mean-test",
+    "db": "mongodb://localhost/yeomanangular-test",
     "port": 3001,
     "app": {
         "name": "MEAN - A Modern Stack - Test"

@@ -1,5 +1,5 @@
 {
-    "db": "mongodb://matrix:matrix@ds051848.mongolab.com:51848/mean",
+    "db": "mongodb://matrix:matrix@ds051848.mongolab.com:51848/yeomanangular",
     "app": {
         "name": "MEAN - A Modern Stack - Production"
     },

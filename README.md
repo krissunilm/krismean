@@ -14,6 +14,16 @@ MEAN is a boilerplate that provides a nice starting point for [MongoDB](http://w
 $ npm install -g bower
 ```
 
+## Travis CI build information
+Save this file to the root of your project as .travis.yml. Now when you push the update to GitHub, your tests will be run on Travis CI.
+ An excellent feature of Travis CI is that you can show the status of the Continuous Integration test on your README
+ page by adding the following snippet of markdown:
+ [![Build Status](https://secure.travis-ci.org/krissunilm/yourproject.png)](http://travis-ci.org/krissunilm/krismean)
+If you visit http://travis-ci.org just after you have pushed to GitHub, you should see your tests being run
+
+krissunilm / krismean
+
+
 ### Optional
 * Grunt - Download and Install [Grunt](http://gruntjs.com).
 
