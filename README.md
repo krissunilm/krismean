@@ -24,6 +24,8 @@ If you visit http://travis-ci.org just after you have pushed to GitHub, you shou
 krissunilm / krismean
 
 
+hope travis likes this
+
 ### Optional
 * Grunt - Download and Install [Grunt](http://gruntjs.com).
 
